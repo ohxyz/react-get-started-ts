@@ -11,6 +11,6 @@ function App({message}: AppProps) {
 }
 
 ReactDOM.render(
-    <App message="ANZx" />,
+    <App message="World" />,
     document.getElementById('root')
 );
