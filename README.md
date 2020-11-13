@@ -1,15 +1,15 @@
 # Basic setup of a React project with TypeScript
 
-This is intended to have basic packages to get you started in ANZx React projects.
+For JavaScript version, refer to https://github.com/ohxyz/react-get-started
 
 ## Install
 ```
-yarn
+npm i
 ```
 
 ## Develop
 ```
-yarn dev
+npm run dev
 ```
 
 ## Notes
